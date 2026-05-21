@@ -45,8 +45,9 @@ If you find this project helpful, please give it a 🌟 on GitHub!
 
 ---
 
-**Developed by [Daniel Lopez](mailto:rouviourgermanmeetings@gmail.com)**
-Follow on GitHub: [daniellopez882](https://github.com/daniellopez882)
+---
+
+---
 
 ---
 
